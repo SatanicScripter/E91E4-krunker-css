@@ -4,7 +4,8 @@ New krunker css
 STATUS: WORKING
 
 IMAGES
-Loading image
+
+Loading screen image
 ![Krunker_e_Editing_E91E4-krunker-css_README_md_at_main_·_SatanicScripter_E91E4-krunker-css](https://user-images.githubusercontent.com/75582345/132808710-12b108f5-cb45-4840-a276-df408792dff6.png)
 
 Menu image
